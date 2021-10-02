@@ -55,6 +55,14 @@ holidays:
         zones:
           - America/Martinique
         _days: MQ
+      NC:
+        name: "Territoire d'outre-mer Nouvelle-Calédonie"
+        zones:
+          - Pacific/Nouvelle-Calédonie
+        days:
+          09-24:
+            name:
+              fr: Fête de la Citonneyeté
       GP:
         name: "Département et région d'outre-mer Guadeloupe"
         zones:
